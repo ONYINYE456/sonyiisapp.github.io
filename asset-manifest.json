@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sonyiisapp.github.io/static/css/main.8b594ecb.css",
+    "main.js": "/sonyiisapp.github.io/static/js/main.600ea604.js",
+    "static/media/ai.png": "/sonyiisapp.github.io/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/sonyiisapp.github.io/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/sonyiisapp.github.io/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/sonyiisapp.github.io/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/sonyiisapp.github.io/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/sonyiisapp.github.io/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/sonyiisapp.github.io/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/sonyiisapp.github.io/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/sonyiisapp.github.io/index.html",
+    "main.8b594ecb.css.map": "/sonyiisapp.github.io/static/css/main.8b594ecb.css.map",
+    "main.600ea604.js.map": "/sonyiisapp.github.io/static/js/main.600ea604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b594ecb.css",
+    "static/js/main.600ea604.js"
+  ]
+}
